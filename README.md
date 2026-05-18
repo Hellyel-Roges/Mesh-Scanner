@@ -24,7 +24,7 @@ Certifique-se de ter o [Go instalado](https://go.dev/doc/install) na sua máquin
 
 ### Clonando o repositório
 ```bash
-git clone [https://github.com/SEU_USUARIO/Mesh-Scanner.git](https://github.com/SEU_USUARIO/Mesh-Scanner.git)
+git clone [https://github.com/Hellyel-Roges/Mesh-Scanner.git](https://github.com/Hellyel-Roges/Mesh-Scanner.git)
 cd Mesh-Scanner
 ```
 
